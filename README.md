@@ -4,9 +4,9 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
 
 ## Kullandığım programlar ve diller
 
-Unity
-Visual Studio 2019
-C#
+* Unity
+* Visual Studio 2019
+* C#
 
 ## Content
 
