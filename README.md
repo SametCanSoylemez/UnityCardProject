@@ -2,9 +2,11 @@
 
 Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersi vizesi için geliştirilen bir proje mobil oyunudur. Oyunun adı 'Geometrili Bulmaca' olarak belirlenmiştir ve 'Mobil' platformda çalışmaktadır.
 
-## Getting Started
+## Kullandığım programlar ve diller
 
-Each item may require specific actions. So check corresponding items.
+Unity
+Visual Studio 2019
+C#
 
 ## Content
 
