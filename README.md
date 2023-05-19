@@ -1,6 +1,6 @@
-# Utilities
+# Geometrili Bulmaca
 
-Different kind of small utility items will be tracked under this repository.
+Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersi vizesi için geliştirilen bir proje mobil oyunudur. Oyunun adı 'Geometrili Bulmaca' olarak belirlenmiştir ve 'Mobil' platformda çalışmaktadır.
 
 ## Getting Started
 
