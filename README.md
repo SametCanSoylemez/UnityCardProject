@@ -25,7 +25,7 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
 * Kullanım kolaylığı
 
 ## Apk Dosyası
-[KartOyunuApk.zip](KartOyunuApk.zip)
+[Kart oyunu Apk dosyasına buradan erişebilirsiniz.](KartOyunuApk.zip)
 ## Oyun İçi Görseller
 <img src="1.jpg" alt="Resim 1" width="350" height="500" style="margin-right: 20px;"> <img src="2.jpg" alt="Resim 2" width="350" height="500">
 <br>
