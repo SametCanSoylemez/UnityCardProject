@@ -27,5 +27,5 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
 ## Apk Dosyası
 
 ## Oyun İçi Görseller
-<img src="1.jpg" alt="Resim 1" width="350" height="500"> <img src="2.jpg" alt="Resim 2" width="350" height="500">
-<img src="3.jpg" alt="Resim 3" width="350" height="500"> <img src="4.jpg" alt="Resim 4" width="350" height="500">
+<img src="1.jpg" alt="Resim 1" width="350" height="500" style="margin-right: 20px;"> <img src="2.jpg" alt="Resim 2" width="350" height="500">
+<img src="3.jpg" alt="Resim 3" width="350" height="500" style="margin-right: 20px;"> <img src="4.jpg" alt="Resim 4" width="350" height="500">
