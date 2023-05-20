@@ -10,7 +10,7 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
 
 ## Proje Konusu Olan Kart
 
-* ![Örnek Resim](images/example.png)
+* ![Örnek Resim](Kart.png)
 
 ## Oyunun Amacı
 * İç içe geçmiş şekillere göre verilen soruları cevaplama
