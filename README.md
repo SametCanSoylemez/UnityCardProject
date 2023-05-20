@@ -24,6 +24,9 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
 * Hitap edilen kitleye uygunluk
 * Kullanım kolaylığı
 
+## Dökümanlar
+[Oyun içi anlatımdan kod analizine kadar tüm dökümanlara buradan erişebilirsiniz.](Dokumantasyon)
+
 ## Apk Dosyası
 [Kart oyunu Apk dosyasına buradan erişebilirsiniz.](KartOyunuApk.zip)
 ## Oyun İçi Görseller
