@@ -27,4 +27,7 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
 ## Apk Dosyası
 
 ## Oyun İçi Görseller
-![Kart Resimi]![Kart Resimi]![Kart Resimi]![Kart Resimi](1.jpg)(2.jpg)(3.jpg)(4.jpg)
+1. ![Resim 1](1.jpg)
+2. ![Resim 2](2.jpg)
+3. ![Resim 3](3.jpg)
+4. ![Resim 4](4.jpg)
